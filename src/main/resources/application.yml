@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cardex-eureka-naming-server
+
+
+server:
+  port: ${port:8761}
